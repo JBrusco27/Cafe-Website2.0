@@ -1,0 +1,51 @@
+:root{
+    --font-family-satisfy:'Satisfy', cursive;
+    --font-family-poppins:'Poppins', sans-serif;
+    --blue1-color:#130F40;
+    --blue2-color:#494262;
+    --blue3-color:#52389B;
+    --blue4-color:#383347;
+    --grey-background:#EDECF2;
+    --white-background:#F7F6F9;
+    --btn-gradient-background:linear-gradient(135deg, #494262, #6e6592);
+    --hover-btn-gradient-background:linear-gradient(135deg,#6e6592,#494262);
+    --btn2-gradient-background:linear-gradient(135deg, #0f0b0c, #412e32);
+    --hover-btn2-gradient-background:linear-gradient(135deg, #412e32, #0f0b0c);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: var(--font-family-poppins);
+}
+
+section{
+    padding: 2rem 9%;
+}
+
+/* Header */
+
+
+
+/* Header */
+
+
+/* Content */
+
+
+
+/* Content */
+
+
+/* Footer */
+
+
+
+/* Footer */
+
+
+/* Responsive */
+
+
+
+/* Responsive */
